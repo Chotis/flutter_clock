@@ -1,4 +1,4 @@
-#Pan's Digital Clock for the FLutter clock challenge
+#Pan's Digital Clock for the Flutter clock challenge
 
 It has a light theme and a dark theme.
 
