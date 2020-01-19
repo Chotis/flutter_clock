@@ -96,7 +96,7 @@ class _PansClockState extends State<PansClock> {
         DateFormat(widget.model.is24HourFormat ? 'HH' : 'hh').format(_dateTime);
     final minute = DateFormat('mm').format(_dateTime);
     final seconds = DateFormat('ss').format(_dateTime);
-    final fontSize = MediaQuery.of(context).size.width / 7;
+    final fontSize = MediaQuery.of(context).size.width / 9;
 
     final weatherInfo = DefaultTextStyle(
         style: TextStyle(
