@@ -1,6 +1,5 @@
-#Pan's Digital Clock
+#Pan's Digital Clock for the FLutter clock challenge
 
-This app is pan's digital clock
 It has a light theme and a dark theme.
 
 <img src='digital_light.gif' width='350'>
